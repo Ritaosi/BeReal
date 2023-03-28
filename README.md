@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/Ritaosi/BeReal-/blob/main/ezgif.com-video-to-gif%20(7)%20(1).gif' width='' alt='Video Walkthrough' />
+<img src='' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezgif  
